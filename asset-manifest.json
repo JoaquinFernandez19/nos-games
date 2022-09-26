@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nos-games/static/css/main.d41b2b82.css",
-    "main.js": "/nos-games/static/js/main.d3f20057.js",
+    "main.js": "/nos-games/static/js/main.db6fbb03.js",
     "static/js/787.a061a5d1.chunk.js": "/nos-games/static/js/787.a061a5d1.chunk.js",
     "static/media/logo.png": "/nos-games/static/media/logo.29f1aefc0fcfe0302996.png",
     "index.html": "/nos-games/index.html",
     "main.d41b2b82.css.map": "/nos-games/static/css/main.d41b2b82.css.map",
-    "main.d3f20057.js.map": "/nos-games/static/js/main.d3f20057.js.map",
+    "main.db6fbb03.js.map": "/nos-games/static/js/main.db6fbb03.js.map",
     "787.a061a5d1.chunk.js.map": "/nos-games/static/js/787.a061a5d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d41b2b82.css",
-    "static/js/main.d3f20057.js"
+    "static/js/main.db6fbb03.js"
   ]
 }
